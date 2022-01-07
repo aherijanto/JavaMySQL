@@ -17,5 +17,8 @@ myConnect._Connection();
 ## Bind Your Query
 myConnect._Statement("{Type Your Query}");
 
+## Get Result
 myConnect._Result();
+
+## Print Metadata
 myConnect._printMetaData();
